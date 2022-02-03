@@ -229,7 +229,7 @@ h1, h2, h3, h4, h5, h6{
     
     padding: 20px;
     
-    background: url(/asets/images/icon/uuu.jpg)
+    background: url(../images/icon/uuu.jpg)
     center ;
     background-size: cover ;
     height: 750px;
