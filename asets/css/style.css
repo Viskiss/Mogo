@@ -228,7 +228,7 @@ h6 {
 .section--devices {
   padding: 20px;
 
-  background: url(/asets/images/icon/uuu.jpg) center;
+  background: url(../images/icon/uuu.jpg) center;
   background-size: cover;
   height: 750px;
 }
@@ -1313,10 +1313,7 @@ h6 {
   .intro_title{
     font-size: 100px;
   }
-  .logos{
-    
-  }
-
+ 
 
 
   .img_iph{
@@ -1572,10 +1569,7 @@ h6 {
     font-size: 18px;
   }
 
-  .rewiews_item{
-    padding: ;
-  }
-
+  
   .logos img{
    
     width: 600px;
